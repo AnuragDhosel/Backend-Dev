@@ -1,0 +1,29 @@
+Directory & File Commands:-
+cd – change directory
+ls – list files and folders
+mkdir – create directory
+touch – create empty file
+cat – display file content
+nano – edit file in terminal
+
+Git Setup:-
+git init – initialize repository
+git clone – copy repo from GitHub
+
+Branching:-
+git branch – list branches
+git checkout -b – create & switch branch
+git switch – switch branch
+
+Staging & Commit:-
+git add – stage files
+git commit – save changes
+
+Push:-
+git push – upload to GitHub
+git push -u origin branch-name – set upstream
+
+History:- 
+history – show commands
+history -d – delete history entry
+history -w – save history

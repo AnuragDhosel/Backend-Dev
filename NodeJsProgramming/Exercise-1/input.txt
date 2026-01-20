@@ -1,1 +1,0 @@
-Hello this is Node js file system example

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "branch": "Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "SHubham",
+    "branch": "CSE"
+  },
+  {
+    "id": 3,
+    "name": "harsh",
+    "branch": "CSE"
+  }
+]
